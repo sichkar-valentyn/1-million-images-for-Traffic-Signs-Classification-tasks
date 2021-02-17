@@ -5,7 +5,7 @@ Applied geometric transformations for Traffic Signs images
 **Soon** *...* Join here: Coming soon ...
 
 ### :triangular_flag_on_post: Description
-Three main versions at the time: **original**, **"light"** and **"hard"**.
+Three main versions at the time: **"original"**, **"light"** and **"hard"**.
 ![Original version](https://github.com/sichkar-valentyn/1-million-images-for-Traffic-Signs-Classification-tasks/blob/main/images/histogram_ts_original_version.png)
 ![Light version](https://github.com/sichkar-valentyn/1-million-images-for-Traffic-Signs-Classification-tasks/blob/main/images/histogram_ts_light_version.png)
 ![Hard version](https://github.com/sichkar-valentyn/1-million-images-for-Traffic-Signs-Classification-tasks/blob/main/images/histogram_ts_hard_version.png)
