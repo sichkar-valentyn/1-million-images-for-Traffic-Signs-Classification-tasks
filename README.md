@@ -4,6 +4,9 @@ Applied geometric transformations for Traffic Signs images
 ### :mortar_board: Related Course
 **Soon** *...* Join here: Coming soon ...
 
+![CNN Course](https://github.com/sichkar-valentyn/1-million-images-for-Traffic-Signs-Classification-tasks/blob/main/images/slideshow_promotion_email_400-432-15.gif)
+
+
 ### :triangular_flag_on_post: Description
 Three main versions at the time: **"original"**, **"light"** and **"hard"**.
 ![Geometric transformations](https://github.com/sichkar-valentyn/1-million-images-for-Traffic-Signs-Classification-tasks/blob/main/images/geometric_transformations.png)
